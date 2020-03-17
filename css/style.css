@@ -2197,3 +2197,27 @@
 	font-size: 40px;
     margin-left: 30%;
 }
+.eggurlleft{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 0px;
+}
+
+.eggurlleft:hover{
+	background: #dda5dd;
+	border: 1px inset silver;
+}
+
+.eggurlright{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+.eggurlright:hover{
+	background: #dda5dd;
+	border: 1px inset silver;
+}
